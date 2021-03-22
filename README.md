@@ -7,18 +7,18 @@ This is the Capstone project of the Correlation One Women's Summit. Our team ana
 Smart meter data from London area: https://www.kaggle.com/jeanmidev/smart-meters-in-london
 
 ## Sitemap
-`Data_preprocessing`: All the data pre-processing scripts
+- `Data_preprocessing`: All the data pre-processing scripts
 	- `Acorn_cleaning.ipynb`: Demographic data cleaning
 	- `preprocessing.ipynb`: Time data cleaning
 	- `energy_cleaning.ipynb`: Electricity data cleaning
 	
-`EDA`
+- `EDA`
 	- `EDA-Nandhitha.ipynb`: Initial look at the data and the relation between electricity usage and potential influential factors
 	- `EDA_acorn_ratio_regression.ipynb`: EDA with demographic factors (ethnicity) and tentative regression analysis
 	- `EDA_economic.ipynb`: EDA with economic factors
 	- `household.ipynb`: EDA with demographic factors (age, ethnicity, house size, child)
 	
-`Time_series_analysis`
+- `Time_series_analysis`
 	- `DS4A_time_series.ipynb`: Time series analysis of average daily energy consumption using ARIMA
 
 ## Team member
