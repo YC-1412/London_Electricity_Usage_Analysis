@@ -7,7 +7,7 @@ This is the Capstone project of the Correlation One Women's Summit. Our team ana
 Smart meter data from London area: https://www.kaggle.com/jeanmidev/smart-meters-in-london
 
 ## Sitemap
-`Data_preprocessing`: All the data pre=processing scripts
+`Data_preprocessing`: All the data pre-processing scripts
 	- `Acorn_cleaning.ipynb`: Demographic data cleaning
 	- `preprocessing.ipynb`: Time data cleaning
 	- `energy_cleaning.ipynb`: Electricity data cleaning
